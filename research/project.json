@@ -178,7 +178,15 @@
         "hs_codes": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/hs_codes.parquet",
         "sector_mapping": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/Sector_Mapping.xlsx",
         "database": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/data.db",
-        "oecd_folder": "/Volumes/Crucial X6/OEC_Data/OECD"
+        "oecd_folder": "/Volumes/Crucial X6/OEC_Data/OECD",
+        "footprint_folder": "/Volumes/Crucial X6/OEC_Data/Ecological Footprint",
+        "wb_folder": "/Volumes/Crucial X6/OEC_Data/World Bank",
+        "extra_wb_folder": "/Volumes/Crucial X6/OEC_Data/Extra_World_Bank",
+        "internal_credit": "/Volumes/Crucial X6/OEC_Data/Internal_Credit",
+        "environmental_patents": "/Volumes/Crucial X6/OEC_Data/Environmental_Patents",
+        "policy_stringency": "/Volumes/Crucial X6/OEC_Data/Environmental_Policy_stringency",
+        "globalisation": "/Volumes/Crucial X6/OEC_Data/Globalisation_Index",
+        "inequality": "/Volumes/Crucial X6/OEC_Data/Income_Inequality_Index"
     },
     "version_paths": {
         "v0": {
