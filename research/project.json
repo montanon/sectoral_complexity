@@ -177,7 +177,12 @@
         "raw_db_path": "/Volumes/Crucial X6/OEC_Data/oec_data.db",
         "hs_codes": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/hs_codes.parquet",
         "sector_mapping": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/Sector_Mapping.xlsx",
-        "database": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/data.db"
+        "database": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/data.db",
+        "oecd_folder": "/Volumes/Crucial X6/OEC_Data/OECD"
     },
-    "version_paths": {}
+    "version_paths": {
+        "v0": {
+            "database": "data/data.db"
+        }
+    }
 }
