@@ -165,7 +165,8 @@
             "Vietnam",
             "Zambia",
             "Zimbabwe"
-        ]
+        ],
+        "total_exports": 303951190665542.0
     },
     "paths": {
         "results": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results",
@@ -186,11 +187,23 @@
         "environmental_patents": "/Volumes/Crucial X6/OEC_Data/Environmental_Patents",
         "policy_stringency": "/Volumes/Crucial X6/OEC_Data/Environmental_Policy_stringency",
         "globalisation": "/Volumes/Crucial X6/OEC_Data/Globalisation_Index",
-        "inequality": "/Volumes/Crucial X6/OEC_Data/Income_Inequality_Index"
+        "inequality": "/Volumes/Crucial X6/OEC_Data/Income_Inequality_Index",
+        "data_file": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/data.parquet",
+        "relatedness": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/relatedness.parquet",
+        "old_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/old_data",
+        "economic_complexity": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/economic_complexity.parquet",
+        "product_complexity": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/product_complexity.parquet",
+        "complexity_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/complexity_data.parquet",
+        "raw_rca": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/raw_rca.parquet",
+        "rca": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/rca.parquet"
     },
     "version_paths": {
         "v0": {
-            "database": "data/data.db"
+            "database": "data/data.db",
+            "hs_codes": "data/hs_codes.parquet",
+            "data_file": "data/data.parquet",
+            "sector_mapping": "data/Sector_Mapping.xlsx",
+            "relatedness": "data/relatedness.parquet"
         }
     }
 }
