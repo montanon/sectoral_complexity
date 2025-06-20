@@ -195,7 +195,9 @@
         "product_complexity": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/product_complexity.parquet",
         "complexity_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/complexity_data.parquet",
         "raw_rca": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/raw_rca.parquet",
-        "rca": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/rca.parquet"
+        "rca": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/rca.parquet",
+        "indicators_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/indicators_data.parquet",
+        "products_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/products_data.parquet"
     },
     "version_paths": {
         "v0": {
@@ -203,7 +205,13 @@
             "hs_codes": "data/hs_codes.parquet",
             "data_file": "data/data.parquet",
             "sector_mapping": "data/Sector_Mapping.xlsx",
-            "relatedness": "data/relatedness.parquet"
+            "relatedness": "data/relatedness.parquet",
+            "economic_complexity": "data/economic_complexity.parquet",
+            "product_complexity": "data/product_complexity.parquet",
+            "complexity_data": "data/complexity_data.parquet",
+            "raw_rca": "data/raw_rca.parquet",
+            "rca": "data/rca.parquet",
+            "indicators_data": "data/indicators_data.parquet"
         }
     }
 }
