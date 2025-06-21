@@ -1,5 +1,11 @@
 # Custom
+research/*/data/*
 .DS_Store
+*.aux
+*.blg
+*.out
+*.gz
+*.bbl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
