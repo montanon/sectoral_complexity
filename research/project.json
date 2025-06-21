@@ -229,7 +229,8 @@
             "skewdness_tests": "results/Skewdness_tests.xlsx",
             "adf_tests": "results/ADF_tests.xlsx",
             "vif_tests": "results/VIF_tests.xlsx",
-            "bp_tests": "results/BP_tests.xlsx"
+            "bp_tests": "results/BP_tests.xlsx",
+            "white_tests": "results/White_tests.xlsx"
         }
     }
 }
