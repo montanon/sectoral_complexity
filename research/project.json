@@ -199,7 +199,14 @@
         "indicators_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/indicators_data.parquet",
         "products_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/products_data.parquet",
         "final_data": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/final_data.parquet",
-        "string_map": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/string_map.json"
+        "string_map": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/data/string_map.json",
+        "descriptive_statistics": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/Descriptive_statistics_all_income.xlsx",
+        "descriptive_statistics_by_income": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/Descriptive_statistics_by_income.xlsx",
+        "skewdness_tests": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/Skewdness_tests.xlsx",
+        "adf_tests": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/ADF_tests.xlsx",
+        "vif_tests": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/VIF_tests.xlsx",
+        "bp_tests": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/BP_tests.xlsx",
+        "white_tests": "/Users/sebastian/Desktop/MontagnaInc/Projects/sectoral_complexity/research/v0/results/White_tests.xlsx"
     },
     "version_paths": {
         "v0": {
@@ -215,7 +222,14 @@
             "rca": "data/rca.parquet",
             "indicators_data": "data/indicators_data.parquet",
             "products_data": "data/products_data.parquet",
-            "final_data": "data/final_data.parquet"
+            "final_data": "data/final_data.parquet",
+            "string_map": "data/string_map.json",
+            "descriptive_statistics": "results/Descriptive_statistics_all_income.xlsx",
+            "descriptive_statistics_by_income": "results/Descriptive_statistics_by_income.xlsx",
+            "skewdness_tests": "results/Skewdness_tests.xlsx",
+            "adf_tests": "results/ADF_tests.xlsx",
+            "vif_tests": "results/VIF_tests.xlsx",
+            "bp_tests": "results/BP_tests.xlsx"
         }
     }
 }
